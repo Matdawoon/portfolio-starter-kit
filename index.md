@@ -1,47 +1,30 @@
 ---
 layout: page
-title: Thank You!
+title: Freelancer/ArtDirector/WebDeveloper/Artist/Slasher
 sitemap: false
 ---
 
-Thank you for buying the PRO version of Hydejack! 🎉
+DA de 34 ans et passionné de design et d’innovation dans les technologies numériques
+.
+Qualifié depuis plus de 10 ans dans le métier du graphisme et plus récemment en UX/UI Design,
+j'ai eu l'occasion de travailler tout en m'épanouissant sur de nombreux projets challengeants
+en start-up (spécialiste de la com et du e-commerce),
+et PME (société à talents multiples, proposant des prestations dans plusieurs domaines, spécialisée dans l'IT).
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown with my own editor,
-one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
 
-## First Steps
-Start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
+## J'aide en temps que pluri-actif, les entreprises/agences :
+  <li>À développer ou renforcer leur image</li>
+  <li>À créer tout type de support à destination de leurs clients/partenaires</li>
+  <li>À me rendre disponible pour des demandes spécifiques en équipe ou solo</li>
 
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
-{:.related-posts.faded}
 
-After you've familiarized yourself with Hydejack, you can delete the following folders and files
-containing example content:
+## Mon fonctionnement en 4 points :
 
-~~~
-├── _featured_categories
-│   └── example.md
-├── _projects
-│   └── *
-├── docs
-├── example
-├── licenses
-├── assets
-│   └── img
-│       ├── blog
-│       ├── docs
-│       └── projects
-├── CHANGELOG.md
-├── forms-by-example.md
-├── LICENSE.md
-└── NOTICE.md
-~~~
+  <li>1/ Humaniser nos échanges au maximum</li>
+  <li>2/ Communiquer de manière efficace (ex : limiter les A/R)</li>
+  <li>3/ Respecter les engagements et deadlines</li>
+  <li>4/ Garder le sourire en toute circonstance :)</li>
+---
 
-[documentation]: docs/README.md
-[install]: docs/install.md
-[upgrade]: docs/upgrade.md
-[config]: docs/config.md
+
+Pour plus d'informations : [hello@mathieu-lebreton.com](mailto:hello@mathieu-lebreton.com/)
